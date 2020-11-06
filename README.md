@@ -1,4 +1,4 @@
-# TODO-list
+# 📝 TODO-list
 
 <a href="https://leovenom.github.io/TODO-list/">
   <p align="center">
